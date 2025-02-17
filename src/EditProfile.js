@@ -96,7 +96,7 @@ const EditProfile = ({
               disabled={isLoading}
               className="w-full px-4 py-2 text-white bg-blue-600 rounded-md hover:bg-blue-700 disabled:bg-blue-300"
             >
-              {isLoading ? 'กำลังบันทึก...' : 'บันทึก'}
+              {isLoading ? 'กำลังบันทึกกกกกกกกกกกกกกกกกก...' : 'บันทึก'}
             </button>
           </div>
         </form>
