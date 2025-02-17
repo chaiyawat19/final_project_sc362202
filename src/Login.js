@@ -92,7 +92,7 @@ function Login() {
               <div className="profile-card__cnt js-profile-cnt">
                 <div className="profile-card__name">{userData.displayName}</div>
                 <div className="profile-card__txt">{userData.email}</div>
-                <button onClick={null}>แก้ไขข้อมูล</button>
+                <button onClick={null}> แก้ไขข้อมูล </button>
                 <div className="profile-card-loc"></div>
                 <div className="profile-card-ctr">
                   <button className="profile-card__button button--orange" onClick={Logout}>
